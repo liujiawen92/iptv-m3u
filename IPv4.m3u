@@ -171,5 +171,27 @@ https://gctxyc.liveplay.myqcloud.com/gc/xjtcmys_1/index.m3u8
 https://gctxyc.liveplay.myqcloud.com/gc/yxhcnh_1/index.m3u8
 #EXTINF:-1 tvg-id="河南郑州千玺广场" tvg-name="河南郑州千玺广场" group-title="直播中国",河南郑州千玺广场
 https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV17
-https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv17_1td.m3u8
+#EXTINF:-1 tvg-id="青海祁连山国家公园" tvg-name="青海祁连山国家公园" group-title="直播中国",青海祁连山国家公园
+https://gcalic.v.myalicdn.com/gc/emspxps_1/index.m3u8
+#EXTINF:-1 tvg-id="甘肃兰州中山桥" tvg-name="甘肃兰州中山桥" group-title="直播中国",甘肃兰州中山桥
+https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8
+#EXTINF:-1 tvg-id="甘肃嘉峪关关城景区" tvg-name="甘肃嘉峪关关城景区" group-title="直播中国",甘肃嘉峪关关城景区
+https://gcalic.v.myalicdn.com/gc/dxssyt_1/index.m3u8
+#EXTINF:-1 tvg-id="甘肃张掖七彩丹霞风景区" tvg-name="甘肃张掖七彩丹霞风景区" group-title="直播中国",甘肃张掖七彩丹霞风景区
+https://gcalic.v.myalicdn.com/gc/lsdftyd_1/index.m3u8
+#EXTINF:-1 tvg-id="甘肃敦煌月牙泉" tvg-name="甘肃敦煌月牙泉" group-title="直播中国",甘肃敦煌月牙泉
+https://gctxyc.liveplay.myqcloud.com/gc/dhyyqst_1/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江哈尔滨霁虹桥" tvg-name="黑龙江哈尔滨霁虹桥" group-title="直播中国",黑龙江哈尔滨霁虹桥
+https://gctxyc.liveplay.myqcloud.com/gc/hkts09_1/index.m3u8
+#EXTINF:-1 tvg-id="黑龙江牡丹江镜泊湖" tvg-name="黑龙江牡丹江镜泊湖" group-title="直播中国",黑龙江牡丹江镜泊湖
+https://gcalic.v.myalicdn.com/gc/jyg04_1/index.m3u8
+#EXTINF:-1 tvg-id="浙江舟山嵊泗县中心渔港" tvg-name="浙江舟山嵊泗县中心渔港" group-title="直播中国",浙江舟山嵊泗县中心渔港
+https://gctxyc.liveplay.myqcloud.com/gc/emsyh_1/index.m3u8
+#EXTINF:-1 tvg-id="浙江舟山东极岛" tvg-name="浙江舟山东极岛" group-title="直播中国",浙江舟山东极岛
+https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8
+#EXTINF:-1 tvg-id="浙江乌镇" tvg-name="浙江乌镇" group-title="直播中国",浙江乌镇
+https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8
+#EXTINF:-1 tvg-id="海南热带雨林国家公园" tvg-name="海南热带雨林国家公园" group-title="直播中国",海南热带雨林国家公园
+https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8
+#EXTINF:-1 tvg-id="海南保亭七仙岭温泉国家森林公园" tvg-name="海南保亭七仙岭温泉国家森林公园" group-title="直播中国",海南保亭七仙岭温泉国家森林公园
+https://gctxyc.liveplay.myqcloud.com/gc/cntv549-zbzg_1/index.m3u8
