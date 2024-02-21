@@ -165,8 +165,11 @@ http://jintan-tv-ori-hls.jstv.com/jintan-tv-ori/jintan_xw.m3u8?zjiangsd
 http://gctxyc.liveplay.myqcloud.com/gc/xjtcdhsz_1/index.m3u8
 #EXTINF:-1 tvg-id="安徽黄山西海大峡谷" tvg-name="安徽黄山西海大峡谷" group-title="直播中国",安徽黄山西海大峡谷
 http://gctxyc.liveplay.myqcloud.com/gc/xdfjq01_1/index.m3u8
-#EXTINF:-1 tvg-id="鲁山画眉谷" tvg-name="鲁山画眉谷" group-title="直播中国",鲁山画眉谷
+#EXTINF:-1 tvg-id="河南平顶山鲁山画眉谷" tvg-name="河南平顶山鲁山画眉谷" group-title="直播中国",河南平顶山鲁山画眉谷
 https://gctxyc.liveplay.myqcloud.com/gc/xjtcmys_1/index.m3u8
-#EXTINF:-1 tvg-id="鲁山尧山风景区" tvg-name="鲁山尧山风景区" group-title="直播中国",鲁山尧山风景区
+#EXTINF:-1 tvg-id="河南平顶山鲁山尧山风景区" tvg-name="河南平顶山鲁山尧山风景区" group-title="直播中国",河南平顶山鲁山尧山风景区
 https://gctxyc.liveplay.myqcloud.com/gc/yxhcnh_1/index.m3u8
-
+#EXTINF:-1 tvg-id="河南郑州千玺广场" tvg-name="河南郑州千玺广场" group-title="直播中国",河南郑州千玺广场
+https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV17.png" group-title="央视",CCTV17
+https://ldocctvwbcdali.v.myalicdn.com/ldocctvwbcd/cdrmldcctv17_1td.m3u8
