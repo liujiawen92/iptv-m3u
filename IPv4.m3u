@@ -113,8 +113,6 @@ http://116.128.243.121:9901/tsfile/live/1005_1.m3u8
 http://116.128.243.121:9901/tsfile/live/1006_1.m3u8
 #EXTINF:-1 tvg-id="E04" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="卫视",金鹰卡通
 http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
-#EXTINF:-1 tvg-id="福建海峡卫视" tvg-name="福建海峡卫视" group-title="卫视",福建海峡卫视
-http://live6.fjtv.net/haixiapd/hd/live.m3u8?_upt=489f328f1711192935
 #EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=eaf313277736dfef64b9adb4a29f0169&volcTime=1711273706
 #EXTINF:-1 tvg-id="B03" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",第一财经
