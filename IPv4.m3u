@@ -67,7 +67,7 @@ http://live.cooltv.top/tv/tide.php?id=sxiws2
 #EXTINF:-1 tvg-id="B21" tvg-name="山东卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shandong.png" group-title="卫视",山东卫视
 http://111.40.174.89/1.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp//ysp/2000294802.m3u8
 #EXTINF:-1 tvg-id="B13" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="卫视",海南卫视
-http://36.96.38.246:8888/newlive/live/hls/42/live.m3u8
+http://livelyws.chinamcache.com/lyws/newzb01.m3u8?auth_key=1706667432-0-0-efcd19318c6ec43089f60ae37ed96646
 #EXTINF:-1 tvg-id="B16" tvg-name="河南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Henan.png" group-title="卫视",河南卫视
 http://36.96.38.246:8888/newlive/live/hls/33/live.m3u81
  tvg-id="B17" tvg-name="湖北卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hubei.png" group-title="卫视",湖北卫视
@@ -138,7 +138,7 @@ http://stream.qhbtv.com/qhws/sd/live.m3u8
 #EXTINF:-1 tvg-id="B37" tvg-name="大湾区卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nanfang.png" group-title="卫视",大湾区卫视
 http://183.238.248.83:9000/udp/239.21.0.84:3676
 #EXTINF:-1 tvg-id="B27" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png" group-title="卫视",三沙卫视
-http://222.189.51.62:8888/newlive/live/hls/49/live.m3u8
+https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=e23282d41711192678
 #EXTINF:-1 tvg-id="B38" tvg-name="农林卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Nonglin.png" group-title="卫视",农林卫视
 http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="地方卫视",澳门莲花
