@@ -68,7 +68,7 @@ https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 tvg-id="B23" tvg-name="四川卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sichuan.png" group-title="卫视",四川卫视
 http://111.40.174.89/1.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp//ysp/2000295002.m3u8
 #EXTINF:-1 tvg-id="B07" tvg-name="重庆卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Chongqing.png" group-title="卫视",重庆卫视
-http://111.40.174.89/1.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp//ysp/2000297802.m3u8
+https://sjlivecdn.cbg.cn/202501261650/4c2e3c39dcd62083f2b25c5e60f7b3a6/app_2/_definst_/ls_3.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="B06" tvg-name="安徽卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Anhui.png" group-title="卫视",安徽卫视
 https://live.ahsx.ahtv.cn/live/ahtv.m3u8?txSecret=a069b18fac6cd605568d3733d24e5613&txTime=6955487F
 #EXTINF:-1 tvg-id="B12" tvg-name="贵州卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Guizhou.png" group-title="卫视",贵州卫视
