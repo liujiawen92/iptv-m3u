@@ -87,20 +87,6 @@ http://111.40.174.89/1.v.smtcdns.net/tlivecloud-ipv6.ysp.cctv.cn/ysp//ysp/200029
 https://tv.pull.hebtv.com/jishi/weishipindao.m3u8?t=1737884371&k=32963d54622d92caa7730f0312a55fb2
 #EXTINF:-1 tvg-id="B01" tvg-name="湖南经视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南经视
 http://116.128.243.121:9901/tsfile/live/1000_1.m3u8
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南都市" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南都市
-http://116.128.243.121:9901/tsfile/live/1001_1.m3u8
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南娱乐" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南娱乐
-http://116.128.243.121:9901/tsfile/live/1002_1.m3u8
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南电影" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南电影
-http://116.128.243.121:9901/tsfile/live/1003_1.m3u8
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南电视剧" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南电视剧
-http://116.128.243.121:9901/tsfile/live/1004_1.m3u8
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南爱晚" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南爱晚
-http://116.128.243.121:9901/tsfile/live/1005_1.m3u8
-#EXTINF:-1 tvg-id="B01" tvg-name="湖南金鹰纪实" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hunan.png" group-title="卫视",湖南金鹰纪实
-http://116.128.243.121:9901/tsfile/live/1006_1.m3u8
-#EXTINF:-1 tvg-id="E04" tvg-name="金鹰卡通" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/jykt.png" group-title="卫视",金鹰卡通
-http://116.128.243.121:9901/tsfile/live/1007_1.m3u8
 #EXTINF:-1 tvg-id="B03" tvg-name="东方卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",东方卫视
 https://volc-stream.kksmg.com/live/dfws/index.m3u8?volcSecret=eaf313277736dfef64b9adb4a29f0169&volcTime=1711273706
 #EXTINF:-1 tvg-id="B03" tvg-name="第一财经" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Dongfang.png" group-title="卫视",第一财经
