@@ -135,8 +135,6 @@ http://live.muzhifm.com/shuazhibo/room2980_pc.m3u8?auth_key=1785035772-0-0-320b3
 http://live.muzhifm.com/shuazhibo/room2982_pc.m3u8?auth_key=1785035772-0-0-2e1f9c256448a75c1fc656a32a12794d
 #EXTINF:-1 tvg-id="平顶山公共频道" tvg-name="平顶山公共频道" group-title="地方卫视",平顶山公共频道
 http://live.muzhifm.com/shuazhibo/room2983_pc.m3u8?auth_key=1785035772-0-0-e8ae97c4402a8d3cf8ba7d8c7441f515
-#EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" group-title="地方卫视",澳门莲花
-http://3720517525.cloudvdn.com/a.m3u8?domain=live-hls.macaulotustv.com&player=m8kAAOH7v8sMVb8X&secondToken=secondToken%3AnJPaUX_gZpEKUWWkyAViNwe9808&streamid=lotustv%3Alotustv%2Fmacaulotustv&v3=1
 #EXTINF:-1 tvg-id="香港卫视" tvg-name="香港卫视" group-title="地方卫视",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:-1 tvg-id="B38" tvg-name="绍兴新闻综合" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Shaoxing.png" group-title="地方卫视",绍兴新闻综合
@@ -158,20 +156,12 @@ http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8?zzhed
 http://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="上虞新闻综合" tvg-name="上虞新闻综合" group-title="地方卫视",上虞新闻综合
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="上虞文化影院" tvg-name="上虞文化影院" group-title="地方卫视",上虞文化影院
-http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="上虞新商都" tvg-name="上虞新商都" group-title="地方卫视",上虞新商都
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8?zzhed
-#EXTINF:-1 tvg-id="海宁新闻综合" tvg-name="海宁新闻综合" group-title="地方卫视",海宁新闻综合
-http://live.hndachao.cn/xwzh/sd/live.m3u8?zzhed
-#EXTINF:-1 tvg-id="海宁生活服务" tvg-name="海宁生活服务" group-title="地方卫视",海宁生活服务
-http://live.hndachao.cn/shfw/sd/live.m3u8?zzhed
 #EXTINF:-1 tvg-id="兰溪新闻综合" tvg-name="兰溪新闻综合" group-title="地方卫视",兰溪新闻综合
 http://l.cztvcloud.com/channels/lantian/SXlanxi1/720p.m3u8?zzhed
 #EXTINF:-1 tvg-id="南京娱乐" tvg-name="南京娱乐" group-title="地方卫视",南京娱乐
 http://live.nbs.cn/channels/njtv/ylpd/500k.m3u8?zjiangsd
-#EXTINF:-1 tvg-id="南通新闻综合" tvg-name="南通新闻综合" group-title="地方卫视",南通新闻综合
-http://cm.wshls.homecdn.com/live/7cc9.flv?zjiangsd
 #EXTINF:-1 tvg-id="金湖新闻综合" tvg-name="金湖新闻综合" group-title="地方卫视",金湖新闻综合
 http://jinhu-tv-hls.cm.jstv.com/jinhu-tv/jinhuzh.m3u8?zjiangsd
 #EXTINF:-1 tvg-id="金坛新闻频道" tvg-name="金坛新闻频道" group-title="地方卫视",金坛新闻频道
